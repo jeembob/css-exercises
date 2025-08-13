@@ -1,0 +1,23 @@
+.odd {
+    background-color: darksalmon;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+
+}
+
+.big {
+    font-size: 24px;
+}
+
+
+#alpha {
+    font-size: 36px;
+    color: blue;
+
+}
+
+#bravo {
+    background-color: chartreuse;
+    font-size: 26;
+    font-weight: bold;
+
+}
